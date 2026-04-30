@@ -50,10 +50,10 @@ Together, they enable teams to:
 
 ## Repository Structure
 
-- `system.md` → Tone principles and evaluation framework  
-- `prompts.md` → AI prompts for tone analysis and rewriting  
-- `examples.md` → Real input/output examples  
-- `usage.md` → How teams can apply this system in workflows  
+- `system.md` (systems thinking) → Tone principles and evaluation framework  
+- `prompts.md` (AI capability) → AI prompts for tone analysis and rewriting  
+- `examples.md` (practical application) → Real input/output examples  
+- `usage.md` (real-world usability) → How teams can apply this system in workflows  
 
 ---
 

@@ -1,5 +1,5 @@
 # AI Tone Consistency System  
-### (Content Infrastructure Project)
+### (A real-world Content Infrastructure Project)
 
 An AI-powered system to evaluate and improve tone consistency in product UI copy at scale.
 

@@ -1,5 +1,5 @@
 # AI Tone Consistency System  
-### (A real-world Content Infrastructure Project)
+### Content infrastructure for scaling consistent product voice across UX
 
 An AI-powered system to evaluate and improve tone consistency in product UI copy at scale.
 
@@ -7,7 +7,7 @@ An AI-powered system to evaluate and improve tone consistency in product UI copy
 
 ## Overview
 
-In fast-moving product teams, UI copy is often written by multiple contributors — Product Managers, Designers, and Engineers. While this enables speed, it also leads to inconsistencies in tone, clarity, and user experience.
+In fast-moving product teams, UI copy is often written by multiple contributors: _Product Managers, Designers, and Engineers_. While this enables speed, it also leads to inconsistencies in tone, clarity, and user experience.
 
 This project explores how a **scalable content system + AI layer** can help teams maintain a consistent voice without relying on centralized content review.
 

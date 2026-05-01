@@ -11,8 +11,6 @@ In fast-moving product teams, UI copy is often written by multiple contributors:
 
 This project explores how a **scalable content system + AI layer** can help teams maintain a consistent voice without relying on centralized content review.
 
-→ Read full case study: [ADD YOUR PORTFOLIO LINK HERE]
-
 ---
 
 ## Problem
